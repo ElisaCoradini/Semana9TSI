@@ -6,4 +6,8 @@ Bem vindes, galeraaaa!!
 
 Gabriel Soares Correia
 Elisa Soares Coradini
+<<<<<<< HEAD
 Lucas Mota Ferrari!
+=======
+Leonardo Aranha Nunes
+>>>>>>> 7d695d555bcae1cb7e904d4ee55730ccd70dfd03
